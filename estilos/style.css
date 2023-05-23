@@ -30,3 +30,10 @@ section#phone{
     background: url('../assets/pacote-d013/pacote-d013/imagens/frame-iphone.png');
 }
 
+iframe#screen{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
